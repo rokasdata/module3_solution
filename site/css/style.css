@@ -1,3 +1,56 @@
 body {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Rubik', sans-serif;
+  background-color:rgba(0, 0, 255, 0.3);
+  font-size: 18px;
 }
+/*---Header---*/
+#header-nav {
+  border: 3px solid grey;
+  border-radius: 0;
+  background: #cccccc;
+  
+}
+
+.navbar-header h1 {
+  background-color: #ccc;
+  width: 300px;
+  margin:0;
+  padding: 0;
+}
+.container {
+  margin-left: 0;
+  margin-right: 0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #FFF;
+  box-shadow: 1px 1px 3px #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/*-- end of header*/
+.row h2 {
+  text-align:center;
+
+}
+#p1 h3, #p2 h3, #p3 h3 {
+  text-align:center;
+}
+#p1, #p2, #p3 {
+  background-color: #ccc;
+  padding: 10px;
+  
+}
+.container {
+  margin:0;
+  padding:0;
+  width: 100%;
+}
+
+
+
+
+
+
+
