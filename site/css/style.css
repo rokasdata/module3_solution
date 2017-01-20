@@ -110,6 +110,11 @@ footer a:hover {
   color: #000;
 }
 /*--end of footer--*/
+@media (min-width:992px) {
+  footer a{
+    display: none;
+  }
+}
 @media (max-width: 767px) {
   .navbar-brand h1{
   position: relative;
