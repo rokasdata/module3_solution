@@ -28,6 +28,12 @@ body {
   text-shadow: 1px 1px 1px #000;
   padding:2px 0;
 }
+#nav-list li a:hover {
+  background-color: #fff;
+  color: #000;
+  text-shadow: 1px 1px 1px #000;
+  
+}
 .container {
   margin-left: 0;
   margin-right: 0;
